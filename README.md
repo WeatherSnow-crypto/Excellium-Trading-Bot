@@ -1,3 +1,5 @@
+![example1](https://github.com/user-attachments/assets/9341271b-d98f-488d-96b5-c29f0dc755b8)
+
 # Excellium Bot
 
 **Excellium Bot** is a fully automated trading solution for high-frequency BTC/USDT trading with a powerful prediction engine, AI-driven risk management, and an intuitive dashboard. Built for both novice and advanced users, Excellium Bot combines market prediction, automation, and real-time reporting into a single, accessible package.
