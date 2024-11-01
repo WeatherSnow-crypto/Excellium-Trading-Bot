@@ -73,15 +73,9 @@ The bot includes a **Market Sentiment Module** that tracks global news and socia
 
 ## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Excellium-Bot.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Set up API keys for your preferred exchange in `config.json`.
+1. Download from latest releases
+2. Install as standalone installer
+3. Set up API keys for your preferred exchange in `settings`.
 4. Run backtests with historical data or start live trading with customized parameters.
 
 > [!WARNING]
